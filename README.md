@@ -1,0 +1,1 @@
+base url: https://raw.githubusercontent.com/danghung-dev/tiengnhat/main/
